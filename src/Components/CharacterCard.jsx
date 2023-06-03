@@ -17,11 +17,11 @@ function CharacterCard(props) {
               </tr>
               <tr>
                 <td>Height: </td>
-                <td className="ps-2">{props.height}</td>
+                <td className="ps-2">{props.height} cm</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td className="ps-2">{props.weight}</td>
+                <td className="ps-2">{props.weight} kg</td>
               </tr>
               <tr>
                 <td>Birth Year: </td>
